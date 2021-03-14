@@ -2,7 +2,7 @@ function main () {
     //Only change code below this line   
     var x = 10;
     var y = 10;
-    x=y;
+    x = y;
     //Only change code above this line 
     return [x, y]   
     }
